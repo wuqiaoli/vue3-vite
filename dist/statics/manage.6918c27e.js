@@ -1,0 +1,1 @@
+import{_ as t}from"./index.db0620da.js";import{r as a,o,g as n,a as r,w as s,F as c,b as _,d}from"./vendor.e6e287b6.js";const l={},m=_("h1",null,"\u6211\u662F\u5546\u54C1\u7BA1\u7406\u9875",-1),i=d("Primary");function p(f,u){const e=a("el-button");return o(),n(c,null,[m,r(e,{type:"primary",plain:""},{default:s(()=>[i]),_:1})],64)}var h=t(l,[["render",p]]);export{h as default};
