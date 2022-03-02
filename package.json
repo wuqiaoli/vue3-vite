@@ -1,0 +1,26 @@
+{
+  "name": "cheapbuy-bcenter",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "staging": "vite --mode staging",
+    "prod": "vite --mode production",
+    "build:staging": "vite build --mode staging",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons": "0.0.11",
+    "axios": "^0.26.0",
+    "element-plus": "^2.0.4",
+    "vue": "^3.2.16",
+    "vue-axios": "^3.4.1",
+    "vue-router": "^4.0.12",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "sass": "^1.43.5",
+    "vite": "^2.6.4"
+  }
+}
